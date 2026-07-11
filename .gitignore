@@ -1,0 +1,4 @@
+# 排除svn所有目录
+.svn/
+node_modules/
+.vitepress/cache/
