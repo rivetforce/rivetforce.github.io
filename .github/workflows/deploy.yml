@@ -1,5 +1,5 @@
  
-name: Deploy MES360
+name: Deploy Rivetforce
 
 on:
   # Runs on pushes targeting the `main` branch. Change this to `master` if you're
